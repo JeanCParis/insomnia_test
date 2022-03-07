@@ -1,0 +1,21 @@
+_id: req_a413db35909143e2b83667a80999604a
+type: Request
+parentId: fld_de9017f62b1d4c5aa3c51f1b983cb233
+modified: 1646647924729
+created: 1646647921035
+url: yahoo.com
+name: Test 2
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1646647921035
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
