@@ -1,0 +1,21 @@
+_id: req_92b96aede8484a54a73bb04697335ce1
+type: Request
+parentId: fld_de9017f62b1d4c5aa3c51f1b983cb233
+modified: 1646648594252
+created: 1646648589880
+url: cnn.com
+name: Test 4
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1646648589881
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
