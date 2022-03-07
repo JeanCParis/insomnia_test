@@ -1,0 +1,21 @@
+_id: req_9ede8712b8114530bb09b4eb9be1e70d
+type: Request
+parentId: fld_de9017f62b1d4c5aa3c51f1b983cb233
+modified: 1646648108011
+created: 1646648086073
+url: sporza.be
+name: Test 3
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1646647538674
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
